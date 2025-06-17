@@ -42,6 +42,9 @@ We built and tested it on a small model of a traffic junction at Mar Baselios Co
 
 ![Block Diagram](docs/block_diagram.jpg)
 
+## Circuit Diagram
+![Circuit Diagram](docs/Circuit_Diagram.jpg)
+
 ## Setup Instructions
 1. Clone the project:
    ```bash
@@ -88,8 +91,6 @@ A few snapshots from our system detecting traffic in real-time:
 - 📄[Project Report (PDF)](docs/Final%20Report%20new.pdf)
 
 
-## Circuit Diagram
-![Circuit Diagram](docs/Circuit_Diagram.jpg)
 ## License
 This project is licensed under the MIT License - see [LICENSE](LICENSE).
 
