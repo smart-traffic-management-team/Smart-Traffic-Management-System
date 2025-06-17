@@ -2,8 +2,19 @@
 
 A system to manage traffic at intersections by detecting vehicles and prioritizing emergency vehicles (like ambulances) using Raspberry Pi, FPGA, and computer vision.
 
+## Table of Contents
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [How It Works](#how-it-works)
+- [Setup Instructions](#setup-instructions)
+- [Results](#results)
+- [Demo](#demo)
+- [Documentation](#documentation)
+- [License](#license)
+
 ## About the Project
-This project solves traffic jams and helps emergency vehicles (like ambulances) pass intersections faster. It uses:
+This project addresses urban traffic congestion and enables emergency vehicles (such as ambulances) to navigate intersections more efficiently.
 - A webcam to count vehicles with YOLO (a computer vision tool).
 - A microphone to detect ambulance sirens with YAMNet.
 - Raspberry Pi to process data.
@@ -12,9 +23,11 @@ This project solves traffic jams and helps emergency vehicles (like ambulances) 
 We built and tested it on a small model of a traffic junction at Mar Baselios College of Engineering and Technology (2025).
 
 ## Features
-- Counts vehicles to adjust green light times for busy roads.
-- Detects ambulance sirens and gives them priority (green light).
-- Uses FPGA for fast and reliable traffic light control.
+
+- 🚦 Counts vehicles to adjust green light times for busy roads.  
+- 🚑 Detects ambulance sirens and gives them priority (green light).  
+- ⚙️ Uses FPGA for fast and reliable traffic light control.
+
 
 ## Technologies Used
 - **Hardware**: Raspberry Pi 4, Basys 3 FPGA, Webcam, Microphone, LED Traffic Lights.
@@ -48,13 +61,14 @@ We built and tested it on a small model of a traffic junction at Mar Baselios Co
 - **Challenge**: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.
 
 ## Demo
-- 🎥 Watch the Demo Video (https://drive.google.com/file/d/11muLq86sJkHUUcLF9veugZjnzbw4sB4t/view?usp=drivesdk)
+
+- 🎥 [Watch the Demo Video](https://drive.google.com/file/d/11muLq86sJkHUUcLF9veugZjnzbw4sB4t/view?usp=drivesdk)
 
 
 ## Documentation
 
 -Project Report
-[Project Report (PDF)](docs/Final%20Report%20new.pdf)
+- 📄[Project Report (PDF)](docs/Final%20Report%20new.pdf)
 
 
 ## Circuit Diagram
