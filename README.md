@@ -47,7 +47,7 @@ Results
 -Challenge: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.    
 
 Demo
-- 🎥 [Watch the Demo Video](docs/Prototype_DemoVideo (1).mp4)
+- 🎥 Watch the Demo Video (https://drive.google.com/file/d/11muLq86sJkHUUcLF9veugZjnzbw4sB4t/view?usp=drivesdk)
 
 
 ##Documentation
