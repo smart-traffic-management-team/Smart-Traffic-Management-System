@@ -7,12 +7,14 @@ A system to manage traffic at intersections by detecting vehicles and prioritizi
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How It Works](#how-it-works)
+- [Circuit Diagram](#circuit-diagram)
 - [Setup Instructions](#setup-instructions)
 - [Results](#results)
 - [Visual Results](#visual-results)
 - [Demo](#demo)
 - [Documentation](#documentation)
 - [License](#license)
+
 
 
 ## About the Project
