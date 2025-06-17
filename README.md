@@ -50,10 +50,12 @@ Demo
 - 🎥 Watch the Demo Video (https://drive.google.com/file/d/11muLq86sJkHUUcLF9veugZjnzbw4sB4t/view?usp=drivesdk)
 
 
-##Documentation
+Documentation
+
 -Project Report
+docs/Final Report new.pdf
 -Circuit Diagram
-![Block Diagram](docs/Circuit_Diagram.jpg)
+![Circuit Diagram](docs/Circuit_Diagram.jpg)
 ## License
 This project is licensed under the MIT License - see [LICENSE](LICENSE).
 
