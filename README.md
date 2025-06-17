@@ -53,7 +53,7 @@ Demo
 Documentation
 
 -Project Report
-- 📄 [Project Report (PDF)](docs/Final Report new.pdf)
+- ![Project Report (PDF)](docs/Final Report new.pdf)
 -Circuit Diagram
 ![Circuit Diagram](docs/Circuit_Diagram.jpg)
 ## License
