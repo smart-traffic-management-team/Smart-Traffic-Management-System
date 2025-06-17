@@ -46,8 +46,9 @@ Results
 -Tested on a mini traffic junction model.
 -Challenge: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.    
 
-##Demo
--Watch the demo video
+Demo
+- 🎥 [Watch the Demo Video](docs/Prototype_DemoVideo(1).mp4)
+
 
 ##Documentation
 -Project Report
