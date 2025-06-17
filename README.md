@@ -40,17 +40,18 @@ We built and tested it on a small model of a traffic junction at Mar Baselios Co
 5. Run the main script
     python src/python/traffic_control.py
 
-Results
+##Results
+
 -Successfully controlled traffic lights based on vehicle count.
 -Detected ambulances using siren sounds and video.
 -Tested on a mini traffic junction model.
 -Challenge: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.    
 
-Demo
+##Demo
 - 🎥 Watch the Demo Video (https://drive.google.com/file/d/11muLq86sJkHUUcLF9veugZjnzbw4sB4t/view?usp=drivesdk)
 
 
-Documentation
+##Documentation
 
 -Project Report
 [Project Report (PDF)](docs/Final%20Report%20new.pdf)
