@@ -47,7 +47,7 @@ Results
 -Challenge: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.    
 
 ##Demo
-Watch the demo video
+-Watch the demo video
 
 ##Documentation
 -Project Report
