@@ -59,6 +59,21 @@ We built and tested it on a small model of a traffic junction at Mar Baselios Co
 - Detected ambulances using siren sounds and video.  
 - Tested on a mini traffic junction model.  
 - **Challenge**: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.
+### Visual Results
+A few snapshots of our system detecting vehicles in real-time:
+
+### 🛣️ Real Road Detection using YOLOv8
+
+![Road Detection 1](docs/Road_Detection1.jpeg)
+*Vehicles detected at a real intersection with bounding boxes*
+
+![Road Detection 2](docs/Road_Detection2.jpg)
+*Live traffic captured and analyzed using YOLOv8 on Raspberry Pi*
+
+### 🚗 Toy Car Prototype Testing
+
+![Toy Car Detection](docs/Toy_car_detection3.jpg)
+*Toy vehicles used to simulate traffic in a miniature model for FPGA control testing*
 
 ## Demo
 
