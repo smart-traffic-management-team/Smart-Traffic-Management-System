@@ -9,9 +9,11 @@ A system to manage traffic at intersections by detecting vehicles and prioritizi
 - [How It Works](#how-it-works)
 - [Setup Instructions](#setup-instructions)
 - [Results](#results)
+- [Visual Results](#visual-results)
 - [Demo](#demo)
 - [Documentation](#documentation)
 - [License](#license)
+
 
 ## About the Project
 This project addresses urban traffic congestion and enables emergency vehicles (such as ambulances) to navigate intersections more efficiently.
