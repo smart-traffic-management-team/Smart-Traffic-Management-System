@@ -46,10 +46,10 @@ Results
 -Tested on a mini traffic junction model.
 -Challenge: Audio processing was hard on Raspberry Pi, so we tested it separately on a laptop.    
 
-Demo
+#Demo
 Watch the demo video
 
-Documentation
+#Documentation
 -Project Report
 -Circuit Diagram
 ![Block Diagram](docs/Circuit_Diagram.jpg)
