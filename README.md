@@ -1,5 +1,9 @@
 # Smart Traffic Management System
-![Prototype](assets/screenshots_prototype.jpg)
+
+<p align="center">
+  <img src="assets/screenshots/prototype.jpg" alt="Prototype" width="700">
+</p>
+
 A system to manage traffic at intersections by detecting vehicles and prioritizing emergency vehicles (like ambulances) using Raspberry Pi, FPGA, and computer vision.
 
 ## Table of Contents
